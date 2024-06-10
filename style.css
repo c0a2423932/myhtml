@@ -1,0 +1,15 @@
+@charset "UTF-8";
+html{
+    font-size: 100%;
+}
+h1{
+    font-size:2rem;
+    text-align: center;
+    background-color:aqua;
+    color:blue;    
+}
+h2{
+    font-size:1.5rem;
+    background-color: blue;
+    color: aqua;
+}
